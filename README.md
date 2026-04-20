@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔬 Denoising Autoencoder — MNIST
+# 🔬 Autoencodeur-avec-pytorch-sur-le-dataset-MINST
 
 **Autoencodeur convolutionnel pour la reconstruction d'images corrompues par bruit gaussien**
 
@@ -68,8 +68,8 @@
 
 ```bash
 # Cloner le projet
-git clone https://github.com/username/denoising-autoencoder-mnist.git
-cd denoising-autoencoder-mnist
+git clone https://github.com/tchongwangbakayoo619-star/Autoencodeur-avec-pytorch-sur-le-dataset-MINST.git
+cd Autoencodeur-avec-pytorch-sur-le-dataset-MINST
 
 # Installer les dépendances
 pip install torch torchvision matplotlib scikit-image
